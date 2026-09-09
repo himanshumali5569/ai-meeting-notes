@@ -1,6 +1,6 @@
 # AI Meeting Notes Generator
 
-This project is a web application that converts meeting audio into structured notes using Whisper for transcription and Hugging Face for note generation.
+This project is a web application that converts meeting audio into structured notes using Whisper for transcription and Hugging Face for note generation. This is for college project
 
 ## Features
 
